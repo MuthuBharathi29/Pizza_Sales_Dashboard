@@ -13,7 +13,7 @@ Dataset → Pizza sales transactional data.
 
 ## Dashboard Overview
 🔹 Home Page 
-<a href="https://github.com/MuthuBharathi29/Pizza_Sales_Dashboard/blob/main/pizza_Dashboard_home.png">home</a>
+<a href="https://github.com/MuthuBharathi29/Pizza_Sales_Dashboard/blob/main/pizza_Dashboard_home.png"> → </a>
 
 KPIs
 
@@ -38,7 +38,7 @@ Sales % by Pizza Category & Size
 Total Pizza Sold by Category
 
 🔹 Best / Worst Page
-<a href=""></a>
+<a href="https://github.com/MuthuBharathi29/Pizza_Sales_Dashboard/blob/main/pizza_Dashboard_best_or_worst.png"> → </a>
 
 Best Seller
 
