@@ -13,7 +13,7 @@ Dataset → Pizza sales transactional data.
 
 ## Dashboard Overview
 🔹 Home Page 
-<a href=""></a>
+<a href="https://github.com/MuthuBharathi29/Pizza_Sales_Dashboard/blob/main/pizza_Dashboard_home.png"></a>
 
 KPIs
 
